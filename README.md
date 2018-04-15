@@ -1,3 +1,2 @@
-"# Time-Series" 
-# Time-Series
+"# Econometrics" 
 # Econometrics
